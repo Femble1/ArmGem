@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a73de1ce8b55e14b933b54b5d901a5f, type: 3}
+  m_Name: Demon Blade
+  m_EditorClassIdentifier: 
+  SkillOrGem: 1
+  SkillName: Demon Blade
+  Description: Deals Magic damage 1 square in front of user
+  PassiveDescription: Next time dealing magic damage, doubles damage.
+  Power: 25
+  Range: 1
+  Height: 0
+  ep_cost: 0
+  Damage: 1
+  Effect1: 0
+  Effect2: 0
+  Effect3: 0
+  ActivationEffect1: 16
+  ActivationEffect2: 0
+  ActivationEffect3: 0
+  DamageType: 1
+  Format: 0
+  FormatSize: 1
+  Type: 0
+  Force: 2
+  Spirit: 5
+  Defense: 0
+  Resistance: 0
+  Mastership: 0
+  Agility: 0
